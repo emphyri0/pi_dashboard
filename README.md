@@ -2,8 +2,6 @@
 
 A terminal-based system monitoring dashboard written in Python using `curses` and `psutil`. Primarily designed for Raspberry Pi monitoring but should work on other Linux systems as well.
 
-**(Optional: Add a Screenshot/GIF Here!)**
-*It's highly recommended to add a screenshot or an animated GIF showing the dashboard in action. Replace the line below with your actual image.*
 ## Features
 
 PI Dashboard provides a real-time overview of various system metrics across multiple tabs:
